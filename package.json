@@ -1,5 +1,5 @@
 {
-  "name": "coding-guru-kit",
+  "name": "TeaFi-ooooo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ytghyt/coding-guru-kit.git"
+    "url": "git+https://github.com/falermana/TeaFi-ooooo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ytghyt/coding-guru-kit/issues"
+    "url": "https://github.com/falermana/TeaFi-ooooo/issues"
   },
-  "homepage": "https://github.com/ytghyt/coding-guru-kit#readme",
+  "homepage": "https://github.com/falermana/TeaFi-ooooo#readme",
   "description": "",
   "dependencies": {
     "advanced-math-toolkit": "^1.0.0",
