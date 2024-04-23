@@ -1,3 +1,7 @@
-codeOwners:falermana212;
-quorum:100;
-version:0.0.1;
+# https://tea.xyz/what-is-this-file
+# created with https://mash.pkgx.sh/mxcl/tea-register
+---
+version: 1.0.0
+codeOwners:
+  - '0x114b229729B00927BD5Cabce143bb7A249d99C41'  # falermana
+quorum: 1
