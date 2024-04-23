@@ -23,6 +23,7 @@
   "homepage": "https://github.com/falermana/teafi-ooooo#readme",
   "description": "",
   "dependencies": {
-    "teafi-ooooo":"^1.1.4"
+    "teafi-ooooo":"^1.1.4",
+    "tea-defi-spolia":"^1.0.0"
   }
 }
