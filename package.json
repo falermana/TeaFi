@@ -1,7 +1,9 @@
 {
   "name": "TeaFi-ooooo",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "main": "index.js",
+  "discription":"",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,14 +11,22 @@
     "type": "git",
     "url": "git+https://github.com/falermana/TeaFi-ooooo.git"
   },
-  "author": "",
+  "author": "falermana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/falermana/TeaFi-ooooo/issues"
   },
+  "publishConfig":{
+	  "access":"public",
+	  "registry":"https://registry.npmjs.org"},
   "homepage": "https://github.com/falermana/TeaFi-ooooo#readme",
   "description": "",
   "dependencies": {
+    "@moncici/date-time-processor": "^1.0.3",
+    "@moncici/log": "^1.0.2",
+    "@moncici/proxy": "^1.0.3",
+    "@moncici/sleep": "^1.0.1",
+    "feishu-notifier": "^1.0.3",
     "advanced-math-toolkit": "^1.0.0",
     "complex-package-minhhnob": "^1.0.0",
     "shopping-cart-app": "^1.0.0",
@@ -99,7 +109,6 @@
     "contact-manager-tea": "^1.0.0",
     "task-scheduler-tea-hihi": "^1.0.0",
     "recipe-finder-tea": "^1.0.0",
-    "daily-journal-tea": "^1.0.0",
     "my-next-package-tea": "^1.0.0",
     "unique-util-collection": "^1.0.0",
     "utility-collection-unique": "^1.0.0",
