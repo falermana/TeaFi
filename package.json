@@ -1,6 +1,6 @@
 {
   "name": "TeaFi-ooooo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,12 +17,12 @@
   "homepage": "https://github.com/falermana/TeaFi-ooooo#readme",
   "description": "",
   "dependencies": {
-    "advanced-math-toolkit": "^1.1.0",
-    "complex-package-minhhnob": "^1.1.0",
-    "shopping-cart-app": "^1.1.0",
-    "simple-package-example-dangtthuynhi": "^1.1.0",
-    "social-media-analytics-tool": "^1.0.1",
-    "sum-dangtthuynhi": "^1.0.1",
+    "advanced-math-toolkit": "^1.0.0",
+    "complex-package-minhhnob": "^1.0.0",
+    "shopping-cart-app": "^1.0.0",
+    "simple-package-example-dangtthuynhi": "^1.0.0",
+    "social-media-analytics-tool": "^1.0.0",
+    "sum-dangtthuynhi": "^1.0.0",
     "example-sum-hminhthu": "^1.0.0",
     "weather-app-tea": "^1.0.0",
     "to-do-list-tea": "^1.0.0",
