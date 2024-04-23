@@ -1,6 +1,6 @@
 {
   "name": "teafi-ooooo",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "main": "index.js",
   "discription": "",
   "type": "module",
@@ -24,6 +24,16 @@
   "description": "",
   "dependencies": {
     "teafi-ooooo":"^1.1.4",
-    "tea-defi-spolia":"^1.0.0"
+    "tea-defi-spolia":"^1.0.0",
+    "tea-defi-sapphire":"^1.0.0",
+  	"tea-defi-gorli":"^1.0.0",
+  	"tea-defi-math":"^1.0.0",
+  	"tea-defi-vipper":"^1.0.0",
+  	"tea-defi-ether":"^1.0.0",
+  	"tea-defi-bitcoin":"^1.0.0",
+  	"tea-defi-bnbcoin":"^1.0.0",
+  	"tea-defi-matic":"^1.0.0",
+  	"tea-defi-arbcoin":"^1.0.0",
+  	"tea-defi-waterfecut":"^1.0.0"
   }
 }
