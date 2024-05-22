@@ -1,8 +1,8 @@
 TeaFi is the first defi project on Tea 
 
-# TeaFi-oOOOO
+# TeaFi-ooooo
 
-TeaFi-oOOOO 是一个基于 Node.js 和智能合约的项目，用于质押 Tea 代币并获取收益。
+TeaFi-ooooo 是一个基于 Node.js 和智能合约的项目，用于质押 Tea 代币并获取收益。
 
 ## 功能特性
 
