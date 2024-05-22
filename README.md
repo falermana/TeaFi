@@ -1,7 +1,4 @@
 TeaFi is the first defi project on Tea 
-以下是一个简单的 README 文件示例，用于说明项目的目的、使用方法以及其他相关信息：
-
----
 
 # TeaFi-oOOOO
 
