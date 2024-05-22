@@ -23,6 +23,8 @@
   "homepage": "https://github.com/falermana/teafi-ooooo#readme",
   "description": "the first project on teaproject teafi-ooooo",
   "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.5.2",
     "axios": "^1.6.7",
     "node-rsa": "^1.1.1",
     "require": "^2.4.20",
