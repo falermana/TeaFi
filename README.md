@@ -1,4 +1,3 @@
-teafi is the first defi project on Tea 
 
 # teafi-ooooo
 
