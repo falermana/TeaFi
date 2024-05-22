@@ -52,3 +52,62 @@ teafi-ooooo/
 ## 许可证
 
 该项目采用 MIT 许可证进行许可。详细信息请参阅 [LICENSE](LICENSE) 文件。
+
+
+
+--------------------------------------------------------------------------------------------
+
+# teafi-ooooo
+
+teafi-ooooo is a project based on Node.js and smart contracts, designed for staking Tea tokens and earning rewards.
+
+## Features
+
+- Users can participate in staking activities by staking Tea tokens.
+- Participants will earn rewards based on the amount of Tea tokens they have staked.
+- Users can withdraw their originally staked tokens at any time.
+
+## Quick Start
+
+1. Install Node.js and npm.
+2. Clone the project repository: `git clone <repository-url>`
+3. Navigate to the project directory: `cd teafi-ooooo`
+4. Install dependencies: `npm install`
+5. Deploy the smart contracts: Fill in the Tea token address in `migrations/1_deploy_contracts.js` file, then run `truffle migrate --network <network>`.
+6. Start the server: `npm start`
+
+## File Structure
+
+```
+teafi-ooooo/
+│
+├── contracts/            # Directory for smart contract files
+│   └── TeaStaking.sol   # Smart contract file for staking
+│
+├── migrations/           # Directory for migration scripts
+│   └── 1_deploy_contracts.js  # Migration script for deploying contracts
+│
+├── scripts/              # Directory for script files
+│   └── stake.js          # Script file for staking
+│
+├── test/                 # Directory for test files
+│   └── teaStaking.test.js  # Test file for staking contract
+│
+├── .gitignore            # Git ignore file
+├── index.js              # Entry file of the project
+├── package.json          # Project configuration file
+└── README.md             # Project documentation file
+```
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- Solidity
+- Web3.js
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
