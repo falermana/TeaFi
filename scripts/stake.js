@@ -8,9 +8,10 @@ const teaStakingInstance = new web3.eth.Contract(TeaStakingContract.abi, contrac
 const main = async () => {
   const accounts = await web3.eth.getAccounts();
   const amountToStake = web3.utils.toWei('100', 'ether'); // 要质押的代币数量
+  const rewardAddress = '<REWARD_ADDRESS>'; // 用户选择的收益地址
 
-  // 调用质押函数
-  await teaStakingInstance.methods.stake(amountToStake).send({ from: accounts[0] });
+  // 调用质押函数，并传入用户选择的收益地址
+  await teaStakingInstance.methods.stake(amountToStake, rewardAddress).send({ from: accounts[0] });
 
   console.log('Staking successful!');
 };
